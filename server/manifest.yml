@@ -1,11 +1,11 @@
   applications:
-  - name: djangoapp
+  - name: djangoappamlfinal
     routes:
-      - route: amldjangofinal.us-south.cf.appdomain.cloud
+      - route: amldjangofinalfinalfinalfinalfinal.us-south.cf.appdomain.cloud
     memory: 128M
     buildpack: python_buildpack
-  - name: djangoapp-nginx
+  - name: djangoapp-nginx-amlfinal
     routes:
-      - route: amldjangofinal.us-south.cf.appdomain.cloud/static
+      - route: amldjangofinalfinalfinalfinalfinalfinal.us-south.cf.appdomain.cloud/static
     memory: 128M
     buildpack: staticfile_buildpack
