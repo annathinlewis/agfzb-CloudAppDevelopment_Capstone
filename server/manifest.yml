@@ -1,11 +1,11 @@
   applications:
   - name: djangoapp
     routes:
-      - route: fladin.us-south.cf.appdomain.cloud
+      - route: amldjangofinal.us-south.cf.appdomain.cloud
     memory: 128M
     buildpack: python_buildpack
   - name: djangoapp-nginx
     routes:
-      - route: fladin.us-south.cf.appdomain.cloud
+      - route: amldjangofinal.us-south.cf.appdomain.cloud
     memory: 128M
     buildpack: staticfile_buildpack
