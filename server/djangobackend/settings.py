@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["amlamw.us-south.cf.appdomain.cloud",".localhost"]
+ALLOWED_HOSTS = ["amlamw.us-south.cf.appdomain.cloud",".localhost", "https://127.0.0.1.8000"]
 
 
 # Application definition
