@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["amldjangofinalfinalfinalfinalfinalfinal.us-south.cf.appdomain.cloud",".localhost"]
+ALLOWED_HOSTS = ["amlamw.us-south.cf.appdomain.cloud",".localhost"]
 
 
 # Application definition
